@@ -22,7 +22,7 @@ I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.co
 </p
 
   
-# 🧑🏻‍💻 Languages and Tools
+### 🧑🏻‍💻 Languages and Tools
 <p>
 <img align="left" alt="Pandas" width="200" style="padding-right:10px;" src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" />&nbsp;
 <img align="left" alt="Numpy" width="200" style="padding-right:10px;" src="https://i0.wp.com/www.ozgurozkok.com/wp-content/uploads/2019/12/numpy-python.png?fit=765%2C306&ssl=1)" />&nbsp;
