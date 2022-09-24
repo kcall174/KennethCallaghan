@@ -5,7 +5,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p/>
 
-
+---
 ### About Me :
 
 I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -21,7 +21,7 @@ I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.co
 <a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-  
+---  
 ### 🧑🏻‍💻 Languages and Tools
 <img align="left" alt="Pandas" width="200" style="padding-right:10px;" src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" />&nbsp;
 <img align="left" alt="Numpy" width="200" style="padding-right:10px;" src="https://i0.wp.com/www.ozgurozkok.com/wp-content/uploads/2019/12/numpy-python.png?fit=765%2C306&ssl=1)" />&nbsp;
