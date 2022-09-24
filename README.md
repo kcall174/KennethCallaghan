@@ -1,3 +1,5 @@
 # Kenneth Callaghan
 
-![python logo](image url "https://i0.wp.com/dataismm.ai/wp-content/uploads/2019/04/python-3-logo-png-transparent.png?fit=2400%2C697&ssl=1")
+### 🐍 Python 3
+
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png"/>
