@@ -23,6 +23,7 @@ I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.co
 
 ---  
 ### 🧑🏻‍💻 Languages and Tools
+<img align="left" alt="Markdown" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&nbsp;
 <img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;
 <img align="left" alt="Matlab" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />&nbsp;
 <img align="left" alt="Numpy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;
@@ -33,6 +34,7 @@ I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.co
 <img align="left" alt="Anaconda" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp;
 <img align="left" alt="Premiere Pro" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />&nbsp;
 <img align="left" alt="Apple" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />&nbsp;
+
 
 
 
