@@ -21,8 +21,9 @@ I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.co
 <a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
----  
+
 ### 🧑🏻‍💻 Languages and Tools
+
 <img align="left" alt="Markdown" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&nbsp;
 <img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;        
 <img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;
