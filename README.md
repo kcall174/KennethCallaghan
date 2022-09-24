@@ -5,7 +5,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p/>
 
----
+
 ### About Me :
 
 I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
