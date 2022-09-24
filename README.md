@@ -1,5 +1,11 @@
 # Kenneth Callaghan
 
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+</div>
+
+
+
 ## 🐍 Python 3
 
 <img align="left" alt="Pandas" width="200" style="padding-right:10px;" src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" />
