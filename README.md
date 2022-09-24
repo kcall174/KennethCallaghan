@@ -8,7 +8,7 @@
 
 ### About Me :
 
-I am a Full Time Data Analyst from Philadelphia img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Time Data Analyst from Philadelphia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m a Data Analyst looking to consume more Python experience for my career
 - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state
