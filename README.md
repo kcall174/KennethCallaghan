@@ -1,7 +1,10 @@
 # Kenneth Callaghan, Jr. 
+
+<p align="center"><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"/></p>
+
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="100"/></p>
+
 
 ### About Me :
 
