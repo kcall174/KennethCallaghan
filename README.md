@@ -6,7 +6,7 @@
 <img align="left" alt="Numpy" width="200" style="padding-right:10px;" src="https://i0.wp.com/www.ozgurozkok.com/wp-content/uploads/2019/12/numpy-python.png?fit=765%2C306&ssl=1)" />
 <img align="left" alt="Matplotlib" width="280" height="80" style="padding-right:10px;" src="https://i2.wp.com/matplotlib.sourceforge.net/_static/logo2.png" />
 
-<br />
+<p />
 
 #
 # Other
