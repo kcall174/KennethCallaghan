@@ -11,7 +11,8 @@
 I am a Full Time Data Analyst from Philadelphia
 
 - 🔭 I’m a Data Analyst looking to consume more Python experience for my career
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennethcallaghanjr/)
+- 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state
+- 📚 I am obsessed with learning and reading 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
