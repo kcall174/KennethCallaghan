@@ -1,7 +1,7 @@
 # Kenneth Callaghan, Jr. 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<iframe src="https://giphy.com/embed/HUplkVCPY7jTW" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW">via GIPHY</a></p>
+<p align="center"><img src="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW" width="100"/></p>
 
 ### About Me :
 
