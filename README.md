@@ -3,20 +3,22 @@
 <p align="center"><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"/></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<p/>
 
 
 ### About Me :
 
-I am a Full Time Data Analyst from Philadelphia
+I am a Full Time Data Analyst from Philadelphia img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m a Data Analyst looking to consume more Python experience for my career
 - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state
 - 📚 I am obsessed with learning and reading 
 
+</p>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
 </p
 
   
