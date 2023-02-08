@@ -1,11 +1,12 @@
-# Kenneth 
-## Data Analyst
 
-<p align="center"><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150"/></p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p/>
 
+<br>
+<br>
+
+<h1 align="center">Hey there, I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150"></p>
 
 ### About Me :
 
@@ -13,7 +14,7 @@ I am a Full Time Data Analyst from Philadelphia, PA <img src="https://media.giph
 
 - 🔭 I’m looking to consume more Python experience for my career
 - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state
-- 📚 I am obsessed with learning and reading 
+- 📚 I'm obsessed with learning and reading 
 
 </p>
 
