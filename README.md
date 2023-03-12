@@ -8,17 +8,17 @@
 
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"></p>
 
-### About Me :
+<h2> About Me : </h2>
 
-I am a Full Time Data Analyst from Philadelphia, PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h3> I am a Full Time Data Analyst from Philadelphia, PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-- 🔭 I’m looking to consume more Python experience for my career
-- 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state
-- 📚 I'm obsessed with learning and reading 
+<h4> - 🔭 I’m looking to consume more Python experience for my career </h4>
+<h4> - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state </h4> 
+<h4> - 📚 I'm obsessed with learning and reading </h4>
 
 </p>
 
-
+<h2 align="center">Contact Me 🧑🏻‍💻 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
