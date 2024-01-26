@@ -31,7 +31,7 @@
 <img align="left" alt="Matlab" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />&nbsp;
 <img align="left" alt="Jupyter" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;
 <img align="left" alt="Numpy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;
-<img align="left" alt="Bash" width="30" style="padding-right:10px;" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">"/>&nbsp;
+<img align="left" alt="Bash" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />&nbsp;
 <img align="left" alt="GitHub" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
 <img align="left" alt="Visual Studio Code" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
 <img align="left" alt="Anaconda" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp;
