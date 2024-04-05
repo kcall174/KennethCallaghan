@@ -10,10 +10,9 @@
 <h4> - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state </h4> 
 <h4> - 📚 I'm obsessed with learning and reading </h4>
 
-</p>
 
-
-
+<br>
+<br>
 
 ### 🧑🏻‍💻 Languages and Tools
 <img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;
