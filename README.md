@@ -4,7 +4,7 @@
 
 <h2> About Me : </h2>
 
-<h3> I am a Full Time Data Analyst from Philadelphia, PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Time Data Analyst from Philadelphia, PA  </h3>
 
 <h4> - 🔭 I’m looking to consume more Python experience for my career </h4>
 <h4> - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state </h4> 
@@ -12,10 +12,7 @@
 
 </p>
 
-<h2 align="center">Contact Me 🧑🏻‍💻 </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+
 
 
 ### 🧑🏻‍💻 Languages and Tools
@@ -33,6 +30,12 @@
 <img align="left" alt="Windows" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&nbsp;
 <img align="left" alt="Windows" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
 
+<br>
+<br>
 
 
+<h2 align="center">Contact Me 🧑🏻‍💻 </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/kennethcallaghanjr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
           
