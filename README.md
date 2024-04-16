@@ -2,9 +2,8 @@
 <h1 align="center">Hello World, I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"></p>
 
-<h2> About Me : </h2>
+<h2> I'm a Full-Time Data Analyst from Philadelphia, PA </h2>
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Time Data Analyst from Philadelphia, PA  </h3>
 
 <h4> - 🔭 I’m looking to consume more Python experience for my career </h4>
 <h4> - 🏋🏻 In my free time I enjoy working out to keep my body in an optimal state </h4> 
