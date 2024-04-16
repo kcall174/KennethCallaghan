@@ -1,8 +1,8 @@
-
-<h1 align="center">Hello World, I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"></p>
+<h1 align="center">Hello World, I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h3 align="center"> I'm a Full-Time Data Analyst from Philadelphia, PA  </h2>
 
-<h2> I'm a Full-Time Data Analyst from Philadelphia, PA </h2>
+
 
 
 <h4> - 🔭 I’m looking to consume more Python experience for my career </h4>
